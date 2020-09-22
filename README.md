@@ -2,6 +2,8 @@
 
 My name is Mikhail and I'm mostly a backend developer. Are you interested in collaboration?  
 I'm up to any inspiring projects. Get in touch with me through the attached e-mail or telegram.  
+Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.  
+
 <!--
 **FrozRt/FrozRt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
