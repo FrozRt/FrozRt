@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <!-- gif Image -->
-<img src="https://i.gifer.com/758R.gif" width="150" align="right" alt="GIF" />  
+<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="150" height="auto" align="right" alt="side Image" />  
 
 My name is Mikhail and I'm mostly a backend developer.     
 Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.   
