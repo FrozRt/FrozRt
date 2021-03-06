@@ -1,7 +1,10 @@
 ### Hi there 👋 
 
+<!-- gif Image -->
+<img src="https://i.gifer.com/758R.gif" width="150" align="right" alt="GIF" />  
+
 My name is Mikhail and I'm mostly a backend developer.     
-Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.  
+Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)  
