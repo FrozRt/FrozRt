@@ -7,7 +7,8 @@ Check out my [tg channel](https://t.me/progdude_info) about the web and all thin
 ![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)  
 
 <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="130" align="right" alt="side Image" />
-Are you interested in collaboration? I'm up to any inspiring projects.  
+
+Are you interested in collaboration? I'm up to any inspiring projects.   
 Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/mikhail-chigrin/">
