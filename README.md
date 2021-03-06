@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" border="0" width="120" align="center" alt="side Image" />  
+### Hi there 👋  <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" border="0" width="120" align="justify" alt="side Image" />  
 
 My name is Mikhail and I'm mostly a backend developer.     
 Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.   
