@@ -6,7 +6,7 @@ Check out my [tg channel](https://t.me/progdude_info) about the web and all thin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)
 ![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)  
 
-<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="130" align="right" alt="side Image" />
+<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" border="0" width="130" align="right" alt="side Image" />
 
 Are you interested in collaboration? I'm up to any inspiring projects.   
 Get in touch with me through the attached links:  
