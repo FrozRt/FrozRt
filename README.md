@@ -29,8 +29,7 @@ Check out my [tg channel](https://t.me/progdude_info) about the web and all thin
 ![prometheus](https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
 ![prometheus](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)  
 
-<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;
-Are you interested in collaboration? I'm up to any inspiring projects.   
+Are you interested in collaboration? I'm up to any inspiring projects.   <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
 Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/mikhail-chigrin/">
