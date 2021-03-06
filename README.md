@@ -1,7 +1,6 @@
-### Hi there 👋  <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" border="0" width="120" align="justify" alt="side Image" />  
-
+### Hi there 👋  
 My name is Mikhail and I'm mostly a backend developer.     
-Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.   
+Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.   <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" border="0" width="120" align="justify" alt="side Image" />  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics)
