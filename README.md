@@ -1,5 +1,5 @@
 ### Hi there 👋  
-My name is Mikhail and I'm mostly a backend developer.  
+My name is Mikhail and I'm an engineer at EPAM systems.  
 Check out my [tg channel](https://t.me/progdude_info) about the web and all things around it.  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
