@@ -31,7 +31,7 @@ Check out my [tg channel](https://t.me/progdude_info) about the web and all thin
 ![grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)  
 
-Are you interested in collaboration? I'm up to any inspiring projects.   <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+Are you interested in collaboration? I'm up to any inspiring projects.  
 Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/mikhail-chigrin/">
